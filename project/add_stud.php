@@ -22,7 +22,7 @@
 				<h3 class="text">Welcome <?php echo $_SESSION["s_name"]; ?></h3><br><hr><br>
 				<div class="content">
 					
-						<h3 >Set Exam Time Table Details</h3><br>
+						<h3 >STUDENT Details</h3><br>
 					<?php
 						if(isset($_POST["submit"]))
 						{
