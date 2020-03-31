@@ -1,5 +1,5 @@
 # SMS-SOFTWARE
-School Management System Software(Web Application)<br/>
+## School Management System Software(Web Application)<br/>
 DBMS-IIT KGP Spring'20<br/>
 Technologies Used:<br/>
   Frontend:<br/>
