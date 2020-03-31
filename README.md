@@ -9,4 +9,7 @@ Technologies Used:<br/>
   Backend:<br/>
     1. PHP<br/>
     2. MySQL Database<br/>
-Hosted on localhost using XAMPP Application.
+Hosted on localhost using XAMPP Application.<br/>
+For further working of the project you can have a look at the youtube videos whose links are provided below:<br/>
+[Admin Module](https://youtu.be/H7jktIonbB0)<br/>
+[Teacher Module](https://youtu.be/RjXyA91h71Q)
